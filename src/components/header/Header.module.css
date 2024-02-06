@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: end;
+    background-color: rgb(24, 24, 37);
+    padding: 5px 10px;
+}
+
+/* .header__favorites-icon{
+    color:#fff;
+} */

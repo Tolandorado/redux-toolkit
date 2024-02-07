@@ -2,7 +2,18 @@
     display: flex;
     justify-content: end;
     background-color: rgb(24, 24, 37);
-    padding: 5px 10px;
+    padding: 25px 20px;
+}
+
+.header > span {
+    background-color: brown;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 20px;
+    font-size: 0.8rem
 }
 
 /* .header__favorites-icon{

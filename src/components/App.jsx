@@ -12,31 +12,31 @@ function App() {
         <RecipeItem
           recipe={{
             id: 1,
-            name: "Мешок говна",
+            name: "Baldur's Gate 3",
           }}
         />
         <RecipeItem
           recipe={{
             id: 2,
-            name: "Kingdom Cum",
+            name: "The Finals",
           }}
         />
         <RecipeItem
           recipe={{
             id: 3,
-            name: "Твердый панос",
+            name: "Call of Duty",
           }}
         />
         <RecipeItem
           recipe={{
             id: 4,
-            name: "голая Шмаль",
+            name: "Terraria",
           }}
         />
         <RecipeItem
           recipe={{
             id: 5,
-            name: "Герыч",
+            name: "Minecraft",
           }}
         />
       </div>
